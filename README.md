@@ -110,7 +110,63 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 🔒 Private Projects
 
+### 🏥 Doctor Appointment App  
+**Tech Stack:** Flutter, Firebase  
+
+**Description:**  
+A complete doctor appointment management system designed for patients and healthcare providers.
+
+**Key Features:**
+-  Doctor profile management
+- Appointment booking with time-slot management  
+- Firebase Authentication (Doctor / Patient)  
+- Realtime appointment status updates  
+- Secure cloud-based data storage  
+
+**Status:** 🔒 Private (Academic / Client Project)
+
+---
+
+### 🎓 College ERP Application  
+**Tech Stack:** Flutter (Mobile App), Laravel (Backend API)  
+
+**Description:**  
+An ERP system for managing academic and administrative operations of a college.
+
+**Key Features:**
+- Student & Faculty authentication  
+- Attendance & result management  
+- Notice board & announcements  
+- Role-based access control  
+- REST API integration with Laravel backend  
+
+**Role:** Full Stack (Flutter + API Integration)  
+**Status:** 🔒 Private (College Project)
+
+---
+
+### 💇 Salon Booking App – *Groomo*  
+**Tech Stack:** Flutter, Firebase  
+
+**Description:**  
+A salon service booking application for customers and salon owners.
+
+**Key Features:**
+- Salon & service listing  
+- Slot-based appointment booking  
+- User authentication  
+- Booking history & booking status tracking  
+- Realtime database synchronization  
+
+**Status:** 🔒 Private (Startup / Client Project)
+
+---
+
+### ℹ️ Note
+> These projects are private due to client or academic policies.  
+> Code access can be shared upon request for evaluation purposes.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pritammandal0272&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
