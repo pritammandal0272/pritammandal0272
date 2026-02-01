@@ -167,8 +167,6 @@ A salon service booking application for customers and salon owners.
 ### ℹ️ Note
 > These projects are private due to client or academic policies.  
 > Code access can be shared upon request for evaluation purposes.
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pritammandal0272&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
